@@ -1,4 +1,3 @@
-  GNU nano 2.3.1                            File: index.js                                                              
 'use strict';
 
 const express = require('express');
